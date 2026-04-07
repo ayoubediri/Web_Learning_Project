@@ -4,6 +4,12 @@ A modern, fully-featured React to-do list application built with Material-UI, fe
 
 ---
 
+## Application Overview
+
+![To-Do List Application Dashboard](./screenshot.png)
+
+---
+
 ## Core Features
 
 ### 1. Task Management
